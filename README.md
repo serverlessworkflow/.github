@@ -20,8 +20,8 @@ We thrive on community contributions and are always eager to welcome new members
 
 Connect with us on:
 - [GitHub Discussions](https://github.com/serverlessworkflow/specification/discussions)
-- [Slack](https://slack.cncf.io/)
-- [X/Twitter](https://twitter.com/ServerlessWF)
+- [Slack](https://slack.cncf.io/) - Channel #serverless-workflow
+- [X/Twitter](https://x.com/CNCFWorkflow)
 - [LinkedIn](https://www.linkedin.com/company/serverless-workflow)
 
 Explore our documentation, participate in discussions, and contribute to building a vendor-neutral, serverless workflow ecosystem. We look forward to collaborating with you!
