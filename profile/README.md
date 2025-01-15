@@ -11,7 +11,7 @@ Serverless Workflow is designed for ease of use and scalability, offering an int
 As part of the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), Serverless Workflow is hosted as a Cloud Native Sandbox project. We offer a comprehensive suite of components and tools:
 
 - **[Specification](https://github.com/serverlessworkflow/specification)**: The core syntax and semantics of the Serverless Workflow DSL.
-- **[SDKs](https://github.com/serverlessworkflow/specification#sdks)**: Access our SDKs for [Go](https://github.com/serverlessworkflow/sdk-go), [Java](https://github.com/serverlessworkflow/sdk-java), [.NET](https://github.com/serverlessworkflow/sdk-net), [Python](https://github.com/serverlessworkflow/sdk-python), and [TypeScript](https://github.com/serverlessworkflow/sdk-typescript) to interact with workflows in your preferred programming language.
+- **[SDKs](https://github.com/serverlessworkflow/specification#sdks)**: Access our SDKs for [Go](https://github.com/serverlessworkflow/sdk-go), [Java](https://github.com/serverlessworkflow/sdk-java), [.NET](https://github.com/serverlessworkflow/sdk-net), [PHP](https://github.com/serverlessworkflow/sdk-php), [Python](https://github.com/serverlessworkflow/sdk-python), [Rust](https://github.com/serverlessworkflow/sdk-rust), and [TypeScript](https://github.com/serverlessworkflow/sdk-typescript) to interact with workflows in your preferred programming language.
 - **[Synapse](https://github.com/serverlessworkflow/synapse)**: Our official, open source, vendor-neutral runtime implementation, facilitating seamless deployment and operation of workflows.
 
 ### Join Our Community
